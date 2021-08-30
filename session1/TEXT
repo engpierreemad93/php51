@@ -1,0 +1,10 @@
+   <?php if($role == 'admin'){?>
+    <form>
+        <input type="text" placeholder="insert username">
+        <input type="password" placeholder="insert password">
+        <input type="submit">
+    </form>
+
+  <?php  }else{ ?>
+     <h1>you haven't persmission</h1>
+  <?php }?>

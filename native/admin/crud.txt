@@ -1,0 +1,8 @@
+CRUD 
+create Record update delete
+=============================
+
+members=> create | store 
+          edit   | update 
+          delete 
+          index  | show   
